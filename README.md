@@ -17,10 +17,10 @@ Problem statement :
     https://www.youtube.com/watch?v=qxXRKVompI8
 
 1.3. Real-world/Business objectives and constraints.
-    No low-latency requirement.
-    Interpretability is important.
-    Errors can be very costly.
-    Probability of a data-point belonging to each class is needed.
+    1.No low-latency requirement.
+    2. Interpretability is important.
+    3. Errors can be very costly.
+    4. Probability of a data-point belonging to each class is needed.
 
 
 1.4 STEPS FOLLOWED FOR SOLVING THE CASE STUDY:
