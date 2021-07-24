@@ -24,7 +24,7 @@ Problem statement :
     4. Probability of a data-point belonging to each class is needed.
 
 
-1.4 STEPS FOLLOWED FOR SOLVING THE CASE STUDY:
+1.4 STEPS FOLLOWED FOR SOLVING THE Personalized Cancer Diagnosis:
 
     1   FIRSTLY,WE STARTED WITH LOADING DATA USING PANDAS LIBRARY.
     2   DID CLEANING,PREPROCESSING OF DATA USING VARIOUS NLP TECHNIQUES.
