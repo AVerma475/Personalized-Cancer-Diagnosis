@@ -17,6 +17,7 @@ Problem statement :
     https://www.youtube.com/watch?v=qxXRKVompI8
 
 1.3. Real-world/Business objectives and constraints.
+
     1. No low-latency requirement.
     2. Interpretability is important.
     3. Errors can be very costly.
@@ -24,6 +25,7 @@ Problem statement :
 
 
 1.4 STEPS FOLLOWED FOR SOLVING THE CASE STUDY:
+
     *FIRSTLY,WE STARTED WITH LOADING DATA USING PANDAS LIBRARY.
     *DID CLEANING,PREPROCESSING OF DATA USING VARIOUS NLP TECHNIQUES.
     *DID EDA FOR UNDERSTANDING THE UNDERLYING PATTERN AND DISTRIBUTION OF DATA.
